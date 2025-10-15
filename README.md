@@ -63,7 +63,7 @@ I bridge core computer-science foundations with applied data science. I like cle
 
 ---
 
-## 📊 GitHub Stats (optional but recommended)
+## 📊 GitHub Stats
 ![Shehroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShehrozRafaqat&show_icons=true&count_private=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehrozRafaqat&layout=compact)
 
