@@ -59,3 +59,24 @@ I bridge core computer-science foundations with applied data science. I like cle
 | [E-Commerce-Site](https://github.com/ShehrozRafaqat/E-Commerce-Site.git) | Full-stack e-commerce template demonstrating product listings, cart mechanics, auth, and order flow. | **Tech:** MERN-style patterns (React, Node/Express) |
 | [MiniCompiler-Custom-Language-Lexer-Parser-and-Code-Generator](https://github.com/ShehrozRafaqat/MiniCompiler-Custom-Language-Lexer-Parser-and-Code-Generator.git) | Compact compiler project: tokenizer, parser, AST and basic code generator in C++ to show CS fundamentals. | **Tech:** C++, parser/lexer concepts, tests |
 | [AmazonClone](https://github.com/ShehrozRafaqat/AmazonClone.git) | Front-end clone built with HTML/CSS/JS — responsive UI, good for screenshots and quick demos. | **Tech:** HTML, CSS, JavaScript (static demo) |
+
+---
+
+## 📊 GitHub Stats (optional but recommended)
+![Shehroz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShehrozRafaqat&show_icons=true&count_private=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehrozRafaqat&layout=compact)
+
+---
+
+## ✅ Goals & Roadmap
+- [x] Finish MiniCompiler (lexer → parser → codegen)  
+- [x] Build & document AI-Powered Investment Platform (FYP)  
+- [ ] Productionize at least one ML model with a stable API endpoint (Flask + Docker)  
+- [ ] Create a clean end-to-end portfolio demo (UI + backend + model)
+
+---
+
+## ✉️ Contact Me
+- **Email:** [shehrozrafaqat9@gmail.com](mailto:shehrozrafaqat9@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/shehroz-rafaqat/](https://www.linkedin.com/in/shehroz-rafaqat/)  
+- **Portfolio:** https://shehrozrafaqat.github.io/ShehrozRafaqatPortfolio/
