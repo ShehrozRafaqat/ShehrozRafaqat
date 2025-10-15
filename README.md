@@ -59,14 +59,3 @@ I bridge core computer-science foundations with applied data science. I like cle
 | [E-Commerce-Site](https://github.com/ShehrozRafaqat/E-Commerce-Site.git) | Full-stack e-commerce template demonstrating product listings, cart mechanics, auth, and order flow. | **Tech:** MERN-style patterns (React, Node/Express) |
 | [MiniCompiler-Custom-Language-Lexer-Parser-and-Code-Generator](https://github.com/ShehrozRafaqat/MiniCompiler-Custom-Language-Lexer-Parser-and-Code-Generator.git) | Compact compiler project: tokenizer, parser, AST and basic code generator in C++ to show CS fundamentals. | **Tech:** C++, parser/lexer concepts, tests |
 | [AmazonClone](https://github.com/ShehrozRafaqat/AmazonClone.git) | Front-end clone built with HTML/CSS/JS — responsive UI, good for screenshots and quick demos. | **Tech:** HTML, CSS, JavaScript (static demo) |
-
----
-
-## 🧾 Project Intros & Quick Run (paste into each repo README)
-### AI-Powered-Investment-Platform
-An end-to-end AI-backed investment assistant that predicts short-to-medium term stock movements and produces ranked recommendations with simple explainability.  
-**Run (quick):**
-```bash
-git clone https://github.com/ShehrozRafaqat/AI-Powered-Investment-Platform.git
-cd AI-Powered-Investment-Platform
-# see README for env, virtualenv and API key setup
