@@ -46,8 +46,9 @@ I bridge core computer-science foundations with applied data science. I like cle
 - Compiler theory (lexer/parser), system design basics, lightweight mobile app dev
 
 **Badges**
-![GitHub followers](https://img.shields.io/github/followers/ShehrozRafaqat?label=Follow&style=social)
-![Top Language](https://img.shields.io/badge/top--lang-C%2B%2B-blue)
+![Shehroz's GitHub stats](https://github-readme-stats-yourname.vercel.app/api?username=ShehrozRafaqat&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=ShehrozRafaqat&layout=compact&count_private=true)
+
 
 ---
 
