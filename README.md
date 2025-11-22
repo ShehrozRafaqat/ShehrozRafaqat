@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m Shehroz Ali
-**MS Data Science student (University of Punjab) | BSc CS (UET Lahore) | Problem-solver who believes obsession beats talent**
+**MS Data Science student (University of Punjab) | BSc CS (UET Lahore) |**
 
 > _“Obsession beats talent any day.”_
 
